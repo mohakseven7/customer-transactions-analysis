@@ -1,2 +1,8 @@
-# customer-transactions-analysis
-Analysis of customer transactions to gain insights into customer behavior and sales trends. Includes data cleaning, visualization, and statistical analysis using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+# Customer Analysis Project
+
+## Overview
+This project analyzes customer data using Python and Jupyter Notebook.
+
+## How to Use
+- Clone this repository
+- Open the notebook in Jupyter or Google Colab
